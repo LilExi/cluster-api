@@ -1,4 +1,4 @@
-module cluster-api
+module github.com/lilexi/cluster-api/api
 
 go 1.19
 
